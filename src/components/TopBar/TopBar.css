@@ -1,0 +1,44 @@
+.logo{
+    width: 100%;
+    height: 70px;
+    background-color: #8a3ab9;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+}
+
+h1{
+    color: whitesmoke;
+    cursor: pointer;
+    margin-left: 15px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px;
+}
+
+li{
+    list-style: none;
+    margin-right: 30px;
+    color: white;
+    cursor: pointer;
+}
+
+li input{
+    width: auto;
+    height: 20px;
+    margin-left: 5px;
+    color: black;
+    border-radius: 5px;
+}
+
+.logo-img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
